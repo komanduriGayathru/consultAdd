@@ -36,6 +36,7 @@ class tri_element:
     def __init__(self, listofnums):
         self.listofnums = listofnums
 
+
     def sum_to_zero(self):
 
         sum_list_list = []
