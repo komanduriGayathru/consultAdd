@@ -5,7 +5,6 @@ ListA = [10, 20, 30, "test", 'Gayathri', 'Python', 10.5, 20.5, 4j, 3 + 7j]
 print(len(ListA))
 
 # 2
-
 ListB = [10, 20, 30, 40, 50]
 print(ListB[1:])
 
